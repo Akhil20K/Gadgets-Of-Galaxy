@@ -18,7 +18,7 @@ To get started you can simply clone this `GOG` repository and install the depend
 Clone the `GOG` repository using git:
 
 ```bash
-git clone https://github.com/Gadgets-Of-Galaxy/GOG_WBD
+git clone https://github.com/Akhil20K/Gadgets-Of-Galaxy
 
 cd GOG
 ```
@@ -44,7 +44,7 @@ mongodb
 
 
 
-Github link: https://github.com/Gadgets-Of-Galaxy/GOG_WBD
+Github link: https://github.com/Akhil20K/Gadgets-Of-Galaxy
 
 
 
