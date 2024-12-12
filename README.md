@@ -41,7 +41,10 @@ Used:
 nodejs
 mongodb
 
-
+## Website Demo
+![Image Alt](https://github.com/Akhil20K/Gadgets-Of-Galaxy/blob/62ff166dc5280f51b113fc628e3045e15d67a7e5/Demo/1.png)
+![Image Alt](https://github.com/Akhil20K/Gadgets-Of-Galaxy/blob/62ff166dc5280f51b113fc628e3045e15d67a7e5/Demo/2.png)
+![Image Alt](https://github.com/Akhil20K/Gadgets-Of-Galaxy/blob/62ff166dc5280f51b113fc628e3045e15d67a7e5/Demo/3.png)
 
 Github link: https://github.com/Akhil20K/Gadgets-Of-Galaxy
 
