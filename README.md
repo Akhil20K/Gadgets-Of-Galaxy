@@ -1,5 +1,4 @@
-# GOG_WBD_MID
-# E-commerce Gadgets of Galaxy Demo
+# Gadgets of Galaxy - E-commerce
 
 This is an application that demonstrates an E-commerce website using the nodejs. The application loads 
 products from MongoDB database and displays them. The loading page directly takes to home page.
