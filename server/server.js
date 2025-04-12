@@ -58,8 +58,8 @@ function jsonFormat(tokens, req, res) {
 const accessLogStream = fs.createWriteStream('access.log', { flags: 'a' });
 app.use(morgan(jsonFormat, { stream: accessLogStream }));
 
-const mongoURL = 'mongodb+srv://hemanth0921:mongodbpassword@nodetut.ej60wid.mongodb.net/GOG';
-mongoose.connect(mongoURL, { useNewUrlParser: true, useUnifiedTopology: true })
+const mongoURL = 'mongodb+srv://akhil03092003:pBp1kfFLWMkwM8f1@gadgetsofgalaxy.ctg6d3f.mongodb.net/';
+mongoose.connect(mongoURL)
     .then(() => {
         console.log('Connected to MongoDB');
     })
